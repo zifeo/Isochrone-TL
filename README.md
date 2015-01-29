@@ -7,5 +7,5 @@ Due to copyright all the datas used for the project and the tests are not availa
 ## Documentation
 Files are self documented (either in French or English). 
 
-## License GNU GLP V2.0
-See LICENSE file in root folder. In addition the project depends on © OpenStreetMap contributors and (CC) Andre Allen & Björn Andersson @ [The Noun Project](http://thenounproject.com).
+## License
+GNU GLP V2.0. See LICENSE file in root folder for details. In addition the project depends on © OpenStreetMap contributors and (CC) Andre Allen & Björn Andersson @ [The Noun Project](http://thenounproject.com).
